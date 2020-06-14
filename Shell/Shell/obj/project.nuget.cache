@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8u0v9Lp7qI+LuOi03IBnipZb8VFz8tQ6Lg6PgR0uUKbNpfy4maBhcZsxf0b2goNnE4++/5VYi+AqRR352/OwfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brani\\source\\repos\\Shell\\Shell\\Shell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

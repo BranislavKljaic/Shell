@@ -1,0 +1,13 @@
+C:\Users\brani\source\repos\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.exe
+C:\Users\brani\source\repos\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.deps.json
+C:\Users\brani\source\repos\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.runtimeconfig.json
+C:\Users\brani\source\repos\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.runtimeconfig.dev.json
+C:\Users\brani\source\repos\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.dll
+C:\Users\brani\source\repos\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.pdb
+C:\Users\brani\source\repos\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.AssemblyInfoInputs.cache
+C:\Users\brani\source\repos\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.AssemblyInfo.cs
+C:\Users\brani\source\repos\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.csproj.CoreCompileInputs.cache
+C:\Users\brani\source\repos\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.dll
+C:\Users\brani\source\repos\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.pdb
+C:\Users\brani\source\repos\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.genruntimeconfig.cache
+C:\Users\brani\source\repos\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.csprojAssemblyReference.cache
