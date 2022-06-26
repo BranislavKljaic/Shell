@@ -1,2 +1,2 @@
 # Shell
-Projektni zadatak iz Osnova operativnih sistema, hibridni CMD, Powershell, Terminal
+My own custom terminal.
